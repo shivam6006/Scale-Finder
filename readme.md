@@ -37,9 +37,3 @@ Before running the application, make sure to:
    - Opening each font file and clicking the "Install" button.
 4. Run **`Scale Finder (GUI).exe`** to start the app.
 
-### Option 2: Running From Source Code
-If you'd like to run the app from the source:
-1. Install Python 3.9+ on your system.
-2. Install the required dependencies using:
-   ```bash
-   pip install -r requirements.txt
